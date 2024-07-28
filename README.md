@@ -4,7 +4,7 @@ Website : <a href="Https://greenbee.surge.sh">https://greenbee.surge.sh</a>
 
 
  <div align="center">
-<img src="https://greenbee.surge.sh/img/logo.png" style="height: 400px;"/>
+<img src="https://greenbee.surge.sh/img/logo.png" />
 </div>
 
 ## Introduction
