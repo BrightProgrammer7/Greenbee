@@ -2,7 +2,10 @@
 
 Website : <a href="Https://greenbee.surge.sh">https://greenbee.surge.sh</a>
 
- <img style="margin-top: 100em;" src="https://greenbee.surge.sh/img/logo.png" alt="GitHub Trophies" />
+
+ <div align="center">
+<img src="https://greenbee.surge.sh/img/logo.png" style="height: 400px;"/>
+</div>
 
 ## Introduction
 
