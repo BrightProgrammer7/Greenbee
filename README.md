@@ -2,6 +2,8 @@
 
 Website : <a href="Https://greenbee.surge.sh">https://greenbee.surge.sh</a>
 
+<img src="Https://greenbee.surge.sh/img/logo.png">
+
 ## Introduction
 
 La Ruche Intelligente est un projet innovant visant à révolutionner l'apiculture en utilisant des technologies avancées pour améliorer la production de miel, surveiller la santé des abeilles et favoriser la durabilité environnementale. Ce projet intègre des capteurs, l'intelligence artificielle (IA), l'imagerie satellite et une application mobile pour offrir une solution complète et moderne aux apiculteurs.
