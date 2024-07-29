@@ -13,8 +13,6 @@
 </p>
 
 ---
-<a href="https://greenbee.surge.sh">Visit the Website : https://greenbee.surge.sh</a> 
----
 
 <p align="center">
   <a href="#introduction">Introduction</a> • 
@@ -24,6 +22,12 @@
   <a href="#impact-et-perspectives">Impact et Perspectives</a> • 
   <a href="#conclusion">Conclusion</a>
 </p>
+
+---
+
+<div align="center">
+<h1>Visit the Website :<a href="https://greenbee.surge.sh"> https://greenbee.surge.sh</a> </h1>
+</div>
 
 ---
 
@@ -81,6 +85,7 @@ L'apiculture traditionnelle fait face à plusieurs défis majeurs:
 <div align="center">
   <img src="hardware/circuit.jpg" alt="Technical Architecture Diagram" width="600">
 </div>
+<br>
 
 - **Microcontrôleur ESP8266**: Pour le contrôle et la gestion des capteurs.
 - **Module GSM SIM800**: Communication en temps réel, même en réseau 2G.
