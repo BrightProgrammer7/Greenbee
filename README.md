@@ -1,14 +1,17 @@
-Sure, here's a more polished and visually appealing version of your README file for the **GreenBee - BeeGreen** project. I've enhanced the layout, added sections, and included suggestions for images and icons to make it more engaging.
 
 ---
 
 # GreenBee - BeeGreen
 
+---
+
 <p align="center">
   <a href="https://greenbee.surge.sh">
-    <img src="Landing%20Page/logo.png" alt="GreenBee Logo" width="150">
+    <img src="Landing%20Page/logo.png" alt="GreenBee Logo" width="350">
   </a>
 </p>
+
+---
 
 <p align="center">
   <a href="https://greenbee.surge.sh">Visit the Website</a> • 
