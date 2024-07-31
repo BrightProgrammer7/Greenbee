@@ -1221,6 +1221,13 @@ header nav {
   padding: 10px 15px;
 }
 
+.contact_form_main .form-group select {
+  border: 1px solid #cbcbcb;
+  border-radius: 3px;
+  min-height: 40px;
+  padding: 10px 15px;
+}
+
 .contact_form_main .form-group textarea {
   height: 100px;
 }
