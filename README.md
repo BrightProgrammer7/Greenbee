@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://greenbee.surge.sh">
-    <img src="Landing%20Page/logo.png" alt="GreenBee Logo" width="350">
+    <img src="Landing%20Page/img/logo.png" alt="GreenBee Logo" width="350">
   </a>
 </p>
 
@@ -57,7 +57,7 @@ L'apiculture traditionnelle fait face à plusieurs défis majeurs:
 
 <p align="center">
   <a href="https://greenbee.surge.sh">
-    <img src="Landing%20Page/qr.png" alt="GreenBee Logo" width="350">
+    <img src="Landing%20Page/img/qr.png" alt="GreenBee Logo" width="350">
   </a>
 </p>
 
@@ -141,7 +141,7 @@ L'apiculture traditionnelle fait face à plusieurs défis majeurs:
 
 <p align="center">
   <a href="https://greenbee.surge.sh">
-    <img src="Landing%20Page/logo.png" alt="GreenBee Banner" width="600">
+    <img src="Landing%20Page/img/logo.png" alt="GreenBee Banner" width="600">
   </a>
 </p>
 
