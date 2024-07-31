@@ -144,6 +144,12 @@
   .footer_contact.contact_numbers {
     margin-top: 10px;
   }
+  .footer-logo {
+    width: 140px;
+    margin: 0 auto;
+    margin: auto;
+  }
+
   .inquiry_home {
     margin-bottom: 30px;
   }
@@ -312,6 +318,10 @@
     right: 0;
     left: auto;
   }
+
+  .services-container {
+    margin-left:10px;
+}
 }
 
 @media only screen and (min-width: 1900px) {

@@ -2164,6 +2164,45 @@ span.as_a_tag {
 }
 
 
+canvas {
+  display: block;
+  background-color: #fbfbfb00;
+}
+
+.services-container {
+      display: grid;
+      grid-template-columns: repeat(2, 1fr);
+      gap: 20px;
+      max-width: 1000px;
+      padding: 20px;
+      margin-left:100px;
+  }
+
+  .service-box {
+      background-color: #fff;
+      border-radius: 8px;
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+      padding: 20px;
+      text-align: center;
+      transition: transform 0.3s ease;
+      cursor: pointer;
+  }
+
+  .service-box:hover {
+      transform: translateY(-5px);
+  }
+
+  .service-title {
+      font-size: 1.5em;
+      color: #333;
+      margin-bottom: 10px;
+  }
+
+  .service-description {
+      font-size: 1em;
+      color: #666;
+  }
+
 /**************************************
 
     1. MAIN NAVIGATION
