@@ -584,55 +584,72 @@ header nav {
 @-webkit-keyframes animate {
   0% {
     content: 'Protect';
-    color: #FDD203;
+    color: #000000;
   }
-  20% {
+  15% {
     content: 'Research';
-    color: #00072D;
+    color: #000000;
   }
-  40% {
+  30% {
     content: 'Cure';
-    color: #31124b;
+    color: #000000;
+  }
+  45% {
+    content: 'Develop';
+    color: #000000;
   }
   60% {
-    content: 'Develop';
-    color: #CB2027;
-  }
-  80% {
     content: 'Improve';
-    color: #004D91;
+    color: #000000;
+  }
+  75% {
+    content: 'Help';
+    color: #000000;
+  }
+  90% {
+    content: 'Give';
+    color: #000000;
   }
   100% {
-    content: 'Help';
-    color: #004D91;
+    content: 'Protect';
+    color: #000000;
   }
 }
 
 @keyframes animate {
   0% {
     content: 'Protect';
-    color: #FDD203;
+    color: #000000;
   }
-  20% {
+  15% {
     content: 'Research';
-    color: #00072D;
+    color: #000000;
   }
-  40% {
+  30% {
     content: 'Cure';
-    color: #31124b;
+    color: #000000;
+  }
+  45% {
+    content: 'Develop';
+    color: #000000;
   }
   60% {
-    content: 'Develop';
-    color: #CB2027;
-  }
-  80% {
     content: 'Improve';
-    color: #004D91;
+    color: #000000;
+  }
+  75% {
+    content: 'Help';
+    color: #000000;
+  }
+  90% {
+    content: 'Give';
+    color: #000000;
   }
   100% {
-    content: 'Help';
-    color: #004D91;
+    content: 'Protect';
+    color: #000000;
   }
+  
 }
 
 #form_for_consultation {
